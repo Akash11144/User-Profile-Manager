@@ -19,13 +19,6 @@ pnpm -C apps/web dev
 - API → http://localhost:4000/graphql
 - Web → http://localhost:5173
 
-## If you prefer npm (no pnpm)
-```bash
-# API
-cd apps/api
-npm install
-npm run dev
-
 # Web
 cd ../web
 npm install
