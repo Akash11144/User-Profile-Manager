@@ -1,0 +1,6 @@
+{
+  "name": "user-profile-manager",
+  "private": true,
+  "workspaces": ["apps/*"],
+  "packageManager": "pnpm@9.0.0"
+}
